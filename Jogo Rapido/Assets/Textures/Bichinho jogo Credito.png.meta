@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 4124dd61e859b7d419bc729b525bdb1e
+timeCreated: 1453564569
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bichinho jogo Credito_0
+    21300002: Bichinho jogo Credito_1
+    21300004: Bichinho jogo Credito_2
+    21300006: Bichinho jogo Credito_3
+    21300008: Bichinho jogo Credito_4
+    21300010: Bichinho jogo Credito_5
+    21300012: Bichinho jogo Credito_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Bichinho jogo Credito_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 306
+        width: 393
+        height: 513
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 117
+        width: 93
+        height: 168
+      alignment: 9
+      pivot: {x: .920390487, y: .154938012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 256
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 237
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 245
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 110
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: .186047703, y: .824999928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bichinho jogo Credito_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 203
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
